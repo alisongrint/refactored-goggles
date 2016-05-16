@@ -1,0 +1,2 @@
+#Example of finding an Issue's SubTasks
+project in ("QuickBooks Online") and issueFunction in subtasksOf("key = QBO-82277")
